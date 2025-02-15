@@ -1,0 +1,40 @@
+# --- Игнорируем бинарные файлы ---
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# --- Игнорируем каталоги сборки ---
+/build/
+/bin/
+/obj/
+/out/
+/x64/
+/.vs/
+
+# --- Файлы CMake ---
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# --- Файлы Make ---
+Makefile
+
+# --- Игнорируем файлы IDE ---
+.vs/
+.idea/
+*.sln
+*.vcxproj*
+*.cbp
+
+# --- Временные файлы редакторов ---
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
