@@ -1,11 +1,11 @@
 #include <iostream>
 #include "Base_class.h"
-#include "Level 1.1.h"
-#include "Level 1.2.h"
-#include "Level 1.3.h"
-#include "Level 2.1.h"
-#include "Level 2.2.h"
-#include "Level 2.3.h"
+#include "Level_1.1.h"
+#include "Level_1.2.h"
+#include "Level_1.3.h"
+#include "Level_2.1.h"
+#include "Level_2.2.h"
+#include "Level_2.3.h"
 using namespace std;
 
 int main() // вызов элементов класса

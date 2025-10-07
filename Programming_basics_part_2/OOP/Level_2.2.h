@@ -1,9 +1,9 @@
 #pragma once
 #include<iostream>
 #include <string>
-#include "Level 1.1.h"
-#include "Level 1.2.h"
-#include "Level 1.3.h"
+#include "Level_1.1.h"
+#include "Level_1.2.h"
+#include "Level_1.3.h"
 using namespace std;
 
 class Rocket : public Petrol, public Electricity, public Kerosene // наследование классов

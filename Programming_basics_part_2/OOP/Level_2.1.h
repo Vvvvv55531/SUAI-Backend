@@ -1,8 +1,8 @@
 #pragma once
 #include<iostream>
 #include <string>
-#include "Level 1.1.h"
-#include "Level 1.2.h"
+#include "Level_1.1.h"
+#include "Level_1.2.h"
 using namespace std;
 
 class Hybrid_car : public Petrol, public Electricity // наследование классов
